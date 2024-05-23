@@ -1,0 +1,13 @@
+﻿<Application x:Class="SmokeBall.Presentation.Windows.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:SmokeBall.Presentation.Windows"
+             xmlns:ui="clr-namespace:SmokeBall.Presentation.Windows.UI"
+             >
+    <Application.MainWindow>
+        <ui:MainWindow Visibility="Visible" />
+    </Application.MainWindow>
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>
